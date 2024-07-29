@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanjangid&label=Profile%20views&color=0e75b6&style=flat" alt="aryanjangid" /> </p>
 
 <p align="center">
-  <a href="https://github.com/aryanjangid/readme-typing-svg"><img width="1200" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer;AI+and+Data+Science+Student;DSA+Mentor;Competitive+Programmer"></a>
+  <a href="https://github.com/01mohitjangid/readme-typing-svg"><img width="1200" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer;AI+and+Data+Science+Student;DSA+Mentor;Competitive+Programmer"></a>
 </p>
 
 
@@ -13,29 +13,22 @@
 <br/>
 <table>
   <tr>
-    <td><img height="200px" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanjangid&layout=compact&theme=dark" alt="aryanjangid" /></td>
-    <td><img height="200px" width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanjangid&theme=dark&width=10000" alt="aryanjangid" /></td>
+    <td><img height="200px" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=01mohitjangid&layout=compact&theme=dark" alt="01mohitjangid" /></td>
+    <td><img height="200px" width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=01mohitjangid&theme=dark&width=10000" alt="01mohitjangid" /></td>
   </tr>
 </table>
 
-## Coding Profile
-![Badge](https://cp-logo.vercel.app/codechef/ser_reckon?logo=true)
-![Badge](https://cp-logo.vercel.app/codeforces/reckon07?logo=true)
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/Reckon007?ext=heatmap)
 
 
 <!-- - 📄 Know about my experiences [https://drive.google.com/file/d/15jj-EqxOQnPUg6T_vxyRFjc3UbO37Qpc/view?usp=sharing](https://drive.google.com/file/d/15jj-EqxOQnPUg6T_vxyRFjc3UbO37Qpc/view?usp=sharing) -->
 
 ## Profiles
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/aryanjangid07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/aryanjangid07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jangidaryan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jangidaryan/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/aj_aryan0007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aj_aryan0007/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/ser_reckon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/ser_reckon" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/reckon07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/reckon07" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/reckon007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/reckon007/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/aryanjangid2511/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/aryanjangid2511/" height="30" width="40" /></a>
+<a href="https://twitter.com/https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/01mohitjangid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/01mohitjangid/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/equinox_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/equinox_01" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/equinox_01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/equinox_01/" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools
