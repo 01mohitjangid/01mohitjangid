@@ -2,7 +2,7 @@
 
 # ![](<https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif>)[MOHIT JANGID](https://github.com/01mohitjangid) <img src="./img/wave.gif" width="30px" height="30px" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanjangid&label=Profile%20views&color=0e75b6&style=flat" alt="mohitjangid" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohtjangid&label=Profile%20views&color=0e75b6&style=flat" alt="mohitjangid" /> </p>
 
 <p align="center">
   <a href="https://github.com/01mohitjangid/readme-typing-svg"><img width="1200" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer;Competitive+Programmer;AI Develpoer;"></a>
@@ -27,7 +27,7 @@
 <a href="https://twitter.com/https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/01mohitjangid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/01mohitjangid/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/equinox_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/equinox_01" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/EQUINOX_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/EQUINOX_01" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/equinox_01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/equinox_01/" height="30" width="40" /></a>
 </p>
 
