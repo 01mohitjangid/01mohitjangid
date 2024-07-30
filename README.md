@@ -22,16 +22,38 @@
 
 <!-- - 📄 Know about my experiences [https://drive.google.com/file/d/15jj-EqxOQnPUg6T_vxyRFjc3UbO37Qpc/view?usp=sharing](https://drive.google.com/file/d/15jj-EqxOQnPUg6T_vxyRFjc3UbO37Qpc/view?usp=sharing) -->
 
-## Profiles
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/01mohitjangid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/01mohitjangid/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/" height="30" width="40" /></a>
-<a href="[https://codeforces.com/profile/EQUINOX_01](https://codeforces.com/profile/EQUINOX_01)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="[https://codeforces.com/profile/EQUINOX_01](https://codeforces.com/profile/EQUINOX_01)" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/equinox_01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/equinox_01/" height="30" width="40" /></a>
-</p>
+## Connect with me 🤝  
 
-<h1>My Skills 🛠</h1>
+<div align="center">
+ <a href=https://www.linkedin.com/in/01mohitjangid/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://github.com/01mohitjangid" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+                                                                                                                                                  
+<a href="01mohitjangid@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+                                                                                                   
+</div>
+   
+                                                                                                   
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>  
+
+                                                                                                                
+<div align="center">
+<img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
+</div>
+                                                                                          
+                                                                                      
+ 
+                                                                                          
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>                                                                                            
+  
+                                                                                                                
+
 
 <p align="center">
 <!--   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -48,3 +70,7 @@
     <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,ts,sass,tailwind,babel,react,nextjs,nodejs,express,redux,git,github,mongodb,firebase,supabase,vscode,postman,androidstudio,codepen,materialui,figma,arduino,raspberrypi,mysql,replit,netlify,vercel&theme=dark&perline=15" />
   </a>
 </p>
+
+Don't forget to leave a ⭐ from [here](https://github.com/01mohitjangid) if you like 😁 <br/>
+Thank you for visiting...
+<h1>My Skills 🛠</h1>
