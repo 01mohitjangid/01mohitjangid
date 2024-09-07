@@ -14,9 +14,9 @@
 <br/>
 <table>
   <tr>
-    <td><img height="200px" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanjangid&layout=compact&theme=dark" 
+    <td><img height="200px" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=01mohitjangid&layout=compact&theme=dark" 
      alt="01mohitjangid" /></td>
-    <td><img height="200px" width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanjangid&theme=dark&width=10000" alt="01mohitjangid" /></td>
+    <td><img height="200px" width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=01mohitjangid&theme=dark&width=10000" alt="01mohitjangid" /></td>
   </tr>
 </table>
 
