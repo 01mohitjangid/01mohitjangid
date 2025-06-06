@@ -1,11 +1,11 @@
-<!-- [![GitHub Follow](https://img.shields.io/github/followers/aryanjangid?style=social&logo=github)](https://github.com/aryanjangid) -->
+
 
 # ![](<https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif>)[MOHIT JANGID](https://github.com/01mohitjangid) <img src="./img/wave.gif" width="30px" height="30px" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohtjangid&label=Profile%20views&color=0e75b6&style=flat" alt="mohitjangid" /> </p>
 
 <p align="center">
-  <a href="https://github.com/aryanjangid/readme-typing-svg"><img width="1200" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer;Competitive+Programmer;AI Develpoer;"></a>
+  <a href="https://github.com/01mohitjangid@gmail.com/readme-typing-svg"><img width="1200" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer;Competitive+Programmer;AI Develpoer;"></a>
 </p>
 
 
